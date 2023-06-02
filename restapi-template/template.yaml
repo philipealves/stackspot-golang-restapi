@@ -1,0 +1,9 @@
+name: restapi-template
+description: Template para criação de REST API básica em Go
+types:
+  - app-template
+inputs:
+  - label: Project name
+    type: text
+    name: project_name
+    default: project-name
