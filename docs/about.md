@@ -1,0 +1,1 @@
+# About stackspot-golang-restapi stack
